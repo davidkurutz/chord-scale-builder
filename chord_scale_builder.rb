@@ -103,7 +103,11 @@ def display_choose_tone
 end
 
 def display_choose_scale(source)
-  puts 'Select chord or scale type by number.'
+  if source == CHORDS
+    puts 'Select chord type by number.'
+  else
+    puts 'Select scale type by number'
+  end
   source.each { |_k, v| puts v[0].to_s + ') ' + v[1].to_s }
 end
 

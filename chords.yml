@@ -64,3 +64,36 @@
     - :min_3
     - :d_5
     - :d_7
+:major_9_ch:
+  - '11'
+  - Major 9 Chord
+  - - :root
+    - :maj_3
+    - :p_5
+    - :maj_7
+    - :maj_2
+:minor_9_ch:
+  - '12'
+  - Minor 9 Chord
+  - - :root
+    - :min_3
+    - :p_5
+    - :min_7
+    - :maj_2
+:dom_9_ch:
+  - '13'
+  - Dominant 9 Chord
+  - - :root
+    - :maj_3
+    - :p_5
+    - :min_7
+    - :maj_2
+:dom_b9_ch:
+  - '14'
+  - Dominant b9 Chord
+  - - :root
+    - :maj_3
+    - :p_5
+    - :min_7
+    - :min_2
+
