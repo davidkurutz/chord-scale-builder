@@ -1,0 +1,66 @@
+:maj_triad:
+  - '1'
+  - Major Triad
+  - - :root
+    - :maj_3
+    - :p_5
+:min_triad: 
+  - '2'
+  - Minor Triad
+  - - :root
+    - :min_3
+    - :p_5
+:dim_triad:
+  - '3'
+  - Diminished Triad
+  - - :root
+    - :min_3
+    - :d_5
+:aug_triad:
+  - '4'
+  - Augmented Triad
+  - - :root
+    - :maj_3
+    - :a_5
+:maj_7_ch:
+  - '5'
+  - Major 7 Chord
+  - - :root
+    - :maj_3
+    - :p_5
+    - :maj_7
+:dom_7_ch:
+  - '6'
+  - Dominant 7 Chord
+  - - :root
+    - :maj_3
+    - :p_5
+    - :min_7
+:min_7_ch:
+  - '7'
+  - Minor 7 Chord
+  - - :root
+    - :min_3
+    - :p_5
+    - :min_7
+:min_maj7_ch:
+  - '8'
+  - Minor Major 7 Chord
+  - - :root
+    - :min_3
+    - :p_5
+    - :maj_7
+:half_dim_7:
+  - '9'
+  - Half Diminshed 7 Chord
+  - - :root
+    - :min_3
+    - :d_5
+    - :min_7
+:full_dim_7:
+  - '10'
+  - Full Dimished 7 Chord
+  - - :root
+    - :min_3
+    - :d_5
+    - :d_7

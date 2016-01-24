@@ -1,0 +1,134 @@
+:ionian:
+  - '1'
+  - Ionian Mode - Major
+  - - :root
+    - :maj_2
+    - :maj_3
+    - :p_4
+    - :p_5
+    - :maj_6
+    - :maj_7
+    - :root
+:dorian:
+  - '2'
+  - Dorian Mode
+  - - :root
+    - :maj_2
+    - :min_3
+    - :p_4
+    - :p_5
+    - :maj_6
+    - :min_7
+    - :root
+:phrygian:
+  - '3'
+  - Phrygian Mode
+  - - :root
+    - :min_2
+    - :min_3
+    - :p_4
+    - :p_5
+    - :min_6
+    - :min_7
+    - :root
+:lydian:
+  - '4'
+  - Lydian Mode
+  - - :root
+    - :maj_2
+    - :maj_3
+    - :a_4
+    - :p_5
+    - :maj_6
+    - :maj_7
+    - :root
+:mixolydian:
+  - '5'
+  - Mixolydian Mode
+  - - :root
+    - :maj_2
+    - :maj_3
+    - :p_4
+    - :p_5
+    - :maj_6
+    - :min_7
+    - :root
+:aeolian:
+  - '6'
+  - Aeolian Mode - Minor
+  - - :root
+    - :maj_2
+    - :min_3
+    - :p_4
+    - :p_5
+    - :min_6
+    - :min_7
+    - :root
+:locrian:
+  - '7'
+  - Locrian Mode
+  - - :root
+    - :min_2
+    - :min_3
+    - :p_4
+    - :d_5
+    - :min_6
+    - :min_7
+    - :root
+:wholetone:
+  - '8'
+  - Whole Tone Scale
+  - - :root
+    - :maj_2
+    - :maj_3
+    - :a_4
+    - :a_5
+    - :min_7
+    - :root
+:henderson:
+  - '9'
+  - Henderson Scale
+  - - :root
+    - :min_2
+    - :min_3
+    - :maj_3
+    - :d_5
+    - :min_6
+    - :maj_6
+    - :maj_7
+    - :root
+    - :maj_2
+    - :maj_3
+    - :p_4
+    - :p_5
+    - :min_6
+    - :min_7
+    - :root
+:major_pentatonic:
+  - '10'
+  - Major Pentatonic
+  - - :root
+    - :maj_2
+    - :maj_3
+    - :p_5
+    - :maj_6
+    - :root
+:minor_pentatonic:
+  - '11'
+  - Minor Pentatonic
+  - - :root
+    - :min_3
+    - :p_4
+    - :p_5
+    - :min_7
+    - :root
+:blues:
+  - '12'
+  - Blues
+  - - :root
+    - :min_3
+    - :p_4
+    - :d_5
+    - :p_5
+    - :min_7
+    - :root
