@@ -96,4 +96,12 @@
     - :p_5
     - :min_7
     - :min_2
+:dom_7_sharp_9:
+  - '15'
+  - Dominant 7 Sharp 9
+  - - :root
+    - :maj_3
+    - :p_5
+    - :min_7
+    - :sharp_9
 
