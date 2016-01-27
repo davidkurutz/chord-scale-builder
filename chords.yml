@@ -104,4 +104,18 @@
     - :p_5
     - :min_7
     - :sharp_9
+:maj_6_ch:
+  - '16'
+  - Major 6 Chord
+  - - :root
+    - :maj_3
+    - :p_5
+    - :maj_6
+:min_6_ch:
+  - '17'
+  - Minor 6 Chord
+  - - :root
+    - :min_3
+    - :p_5
+    - :maj_6
 

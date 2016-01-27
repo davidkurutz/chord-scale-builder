@@ -132,3 +132,27 @@
     - :p_5
     - :min_7
     - :root
+:whole_half_dim:
+  - '13'
+  - Whole-Half Diminished
+  - - :root
+    - :maj_2
+    - :min_3
+    - :p_4
+    - :d_5
+    - :min_6
+    - :maj_6
+    - :maj_7
+    - :root
+:half_whole_dim:
+  - '14'
+  - 'Half-Whole Diminished'
+  - - :root
+    - :min_2
+    - :min_3
+    - :maj_3
+    - :a_4
+    - :p_5
+    - :maj_6
+    - :min_7
+    - :root
