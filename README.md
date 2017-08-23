@@ -8,6 +8,7 @@ In my early days of learning Ruby, I wrote this fun little 'Music Theory CLI uti
 	* C Major chord = C E G, 
 	* C# Major Chord = C# E# G#
 	* Db Major Chord = Db Eb Gb
+* I set out to write a CLI utility that could accurately choose not only the correct tone, but also decide what name that tone should have in the current scale/chord context:  F vs E# vs Gbb
 
 
 ## Usage
